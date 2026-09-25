@@ -1,6 +1,6 @@
-streamlit>=1.38.0
-pandas>=2.2.0
-numpy>=1.26.0
-pandas-ta>=0.3.14b0
-plotly>=5.22.0
-websocket-client>=1.8.0
+streamlit
+pandas
+numpy
+pandas-ta
+plotly
+websocket-client
