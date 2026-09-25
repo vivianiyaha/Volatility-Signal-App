@@ -1,6 +1,5 @@
 streamlit
 pandas
 numpy
-pandas-ta
 plotly
 websocket-client
